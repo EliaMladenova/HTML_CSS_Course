@@ -1,0 +1,21 @@
+.mq-width::after{
+    content: " Viewport width is larger than 600px";
+    color: green;
+    font-family: serif;
+}
+
+.mq-height::after{
+    content: " Viewport height is larger than 600px";
+    color: green;
+    font-family: serif;
+}
+
+.mq-ar::after{
+    content: " Aspect Ratio is larger than 8/5";
+    color: green;
+    font-family: serif;
+}
+
+span{
+    font-family: serif;
+}

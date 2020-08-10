@@ -1,0 +1,23 @@
+@import url('https://use.fontawesome.com/releases/v5.0.0/css/all.css');
+@import url('http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext');
+
+td{
+   background-color: rgb(244,245,247);
+   width: 600px;
+   padding: 10px;
+}
+
+th{
+    float: right;
+    padding: 3px;
+    color: white;
+    background-color: rgb(66,171,248);
+    border: solid 2px;
+    border-color: rgb(66,171,248);
+    border-radius: 3px;
+}
+
+i{
+    float: right;
+    color: rgb(35,190,94);
+}

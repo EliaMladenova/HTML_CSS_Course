@@ -1,0 +1,17 @@
+.buttons, .fill{
+    cursor: pointer;
+    outline: none;
+}
+
+/*.buttons:last-child button:hover{
+    color: rgb(0, 102, 0);
+}*/
+
+/*.fill:last-child(3n) button:hover{
+    color: rgb(0, 102, 0);
+}*/
+
+.fill:nth-last-of-type(3) :hover
+{
+    color: rgb(0, 102, 0);
+}

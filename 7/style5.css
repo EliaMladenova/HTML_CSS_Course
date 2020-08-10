@@ -1,0 +1,55 @@
+@import url('https://use.fontawesome.com/releases/v5.0.11/css/all.css');
+
+.page{
+    margin: auto;
+}
+
+header{
+    border: solid grey;
+    padding: 10px;
+    border-radius: 5px;
+    width: 100px;
+    text-align: left;
+}
+
+section{
+    border: solid grey;
+    padding: 20px;
+    border-radius: 5px;
+    width: 400px;
+}
+
+div{
+    width: 200px;
+    margin: auto;
+}
+
+button{
+    padding: 5px 10px 5px 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-color: black;
+    border-radius: 5px;
+}
+
+.input-icons i { 
+    position: absolute; 
+}
+  
+.input-icons { 
+    width: 100%; 
+    margin-bottom: 10px; 
+} 
+  
+.icon { 
+    padding: 10px; 
+    min-width: 40px; 
+} 
+
+.input-field { 
+    width: 200px; 
+    padding: 10px; 
+    text-align: center; 
+}

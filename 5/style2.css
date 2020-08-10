@@ -1,0 +1,67 @@
+html{
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: Helvetica, sans-serif;
+    background-color: rgb(238, 238, 238);
+    padding: 100px;
+}
+
+h1{
+    font-family: Georgia, serif;
+}
+
+header{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.site-title{
+    font-size: 46px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+hr{
+    border-top: 3px solid black;
+}
+
+.one img{
+    float: right;
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    padding: 8px;
+    margin-right: 10px;
+}
+
+.two img{
+    float: left;
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    padding: 8px;
+    margin-right: 10px;
+}
+
+blockquote{
+    float: right;
+    font-style: italic;
+    font-family: Georgia, serif;
+    border-left: 3px solid;
+    padding: 10px;
+    border-color: silver;
+}
+
+.author{
+    text-align: right;
+}
+
+aside{
+    float: right;
+    padding-left: 50px;
+}
+
+li a{
+    color:green;
+}

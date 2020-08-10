@@ -1,0 +1,21 @@
+@import url('https://use.fontawesome.com/releases/v4.7.0/css/all.css');
+
+.viewpoint1{
+    background: linear-gradient(90deg, rgb(24,90,157) 0%, rgb(66,205,161));
+}
+
+.viewpoint2{
+    background: linear-gradient(90deg, rgb(168,50,121) 0%, rgb(211,131,18));
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 333px;
+}
+
+section.card{
+    position: absolute;
+}

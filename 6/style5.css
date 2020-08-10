@@ -1,0 +1,16 @@
+header{
+    border-width: 2px;
+    border-color: rgb(0,0,0);
+    border-style: solid;
+    display: flex;
+}
+
+header nav ul{
+    display: flex;
+    flex-basis: 100;
+}
+
+a{
+    color: rgb(0,153,0);
+}
+

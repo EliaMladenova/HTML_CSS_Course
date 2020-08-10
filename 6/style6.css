@@ -1,0 +1,21 @@
+body{
+    display: flex;
+}
+
+ul{
+    display: flex;
+}
+
+li{
+    display: flex;
+    float: left;
+    list-style: none;
+    padding: 5px;
+}
+
+.gallery ul{
+    justify-content: space-between;
+}
+
+
+
